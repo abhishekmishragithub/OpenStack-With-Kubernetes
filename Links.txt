@@ -1,0 +1,3 @@
+https://www.openstack.org/assets/presentation-media/openstack-magnum-hands-on.pdf
+https://www.openstack.org/assets/presentation-media/SUSE-OpenStack-and-Magnum.pdf
+https://thenewstack.io/magnum-is-the-name-docker-container-management-is-the-game/
